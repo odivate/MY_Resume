@@ -62,7 +62,7 @@ header {
     width: 100%;
     justify-content: space-between;
     height: 110vh;
-    background: URL("https://github.com/odivate/MY_Resume/blob/main/Wallpaper.png") no-repeat;
+    background: URL(https://github.com/odivate/MY_Resume/blob/main/Wallpaper.png) no-repeat;
     background-size: cover;
     background-position: cover;
     display: flex;
